@@ -34,6 +34,6 @@ GlenarkLedger is written in pure Python using standard libraries, making it ligh
 1. **Prerequisites:** Python 3.8 or higher installed on your system.
 2. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/glenark-ledger-farm.git](https://github.com/your-username/glenark-ledger-farm.git)
-   cd glenark-ledger-farm
+   git clone https://github.com/cubkegger/GlenarkLedger.git
+cd GlenarkLedger
 📥 [Download GlenarkLedger AppImage for Linux](https://github.com/cubkegger/GlenarkLedger/raw/main/glenark_ledger.appimage)
