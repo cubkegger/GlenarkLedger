@@ -36,3 +36,4 @@ GlenarkLedger is written in pure Python using standard libraries, making it ligh
    ```bash
    git clone [https://github.com/your-username/glenark-ledger-farm.git](https://github.com/your-username/glenark-ledger-farm.git)
    cd glenark-ledger-farm
+📥 [Download the latest AppImage from GitHub Releases](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/releases/latest)
